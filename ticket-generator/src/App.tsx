@@ -1,5 +1,5 @@
 
-import ComingSoon from './ComingSoon'
+import ComingSoon from './ComingSoon.tsx'
 import './App.css'
 
 function App() {
