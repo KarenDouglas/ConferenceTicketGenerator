@@ -1,3 +1,5 @@
+
+
 const ComingSoon = () => (
   <div style={{ textAlign: 'center', marginTop: '20vh' }}>
     <h1>🎟️ Conference Ticket Generator</h1>
